@@ -12,7 +12,8 @@ My hobbies are
 * hiking at mountain parks
 
 
-![here is me](./Photo.jpg)
+![Photo](https://user-images.githubusercontent.com/82438789/149915713-cc13a402-3a4a-4bba-9c31-b75501ceb062.jpg)
+
 
 
 [Here is my Linkedin profile](http://linkedin.com/in/haoranzhu2000/)
